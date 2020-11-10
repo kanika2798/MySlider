@@ -26,8 +26,8 @@
   .next {
     cursor: pointer;
     position: absolute;
-    top: 50%;
-    
+    top: 340px;                
+    margin-right: 20px;
     width: auto;
     padding: 16px;
     margin-top: -50px;
@@ -59,20 +59,9 @@
     position: absolute;
     top: 0;
     box-sizing: border-box;
-   
     border-radius: 5px;
     background-color: rgb(92, 91, 91);
-  }
-  
-  /* Container for image text 
-  .caption-container {
-    text-align: center;
-    background-color: #222;
-    padding: 2px 16px;
-    color: white;
-  }
-  */
-  
+}  
   .row{
     margin-left: auto;
     align-items: center;
